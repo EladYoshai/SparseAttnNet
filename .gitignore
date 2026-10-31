@@ -1,0 +1,11 @@
+data/*
+!data/README.md
+cache/
+results/
+results_*/
+logs/
+figures/
+weights/
+__pycache__/
+*.pth
+*.npz
