@@ -103,6 +103,10 @@ datasets and about 2 hours on WBC. Baselines take up to several hours each, so t
 a few days. Results can differ slightly on other GPUs or library versions because of nondeterministic GPU
 kernels.
 
+## License
+
+MIT, see [`LICENSE`](LICENSE).
+
 ## Citation
 
 If you use this code, please cite the paper (citation details will be added on publication).
